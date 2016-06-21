@@ -91,3 +91,6 @@ ENV/
 
 # JetBrains project file
 .idea/
+
+# Config
+config.yaml
