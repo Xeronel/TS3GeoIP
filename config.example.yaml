@@ -1,0 +1,2 @@
+teamspeak:
+    log_dir: "/opt/teamspeak-server/logs"
